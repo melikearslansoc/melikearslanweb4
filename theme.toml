@@ -1,0 +1,17 @@
+name = "Melike Arslan"
+license = "MIT"
+licenselink = "#"
+description = "Modern and Minimalist Blog Theme for Developer"
+homepage = "#"
+tags = ["sociology", "economic", "northwestern", "finance", "competition law", "tags"]
+features = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
+min_version = 0.20
+
+[author]
+  name = "rahardhika"
+  homepage = "https://rahardhika.com"
+
+[original]
+  name = "nodejh"
+  homepage = "https://github.com/arhen"
+  repo = "https://github.com/arhen/hugo-cereus-pro-theme"
