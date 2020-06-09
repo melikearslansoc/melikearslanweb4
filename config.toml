@@ -1,10 +1,10 @@
 # Site settings
-baseurl = "https://cereus-pro.netlify.com/"
+baseurl = "https://melikearslansoc.github.io/"
 languageCode = "id-ID"
 title = "Melike Arslan"
 
 #Set googleAnalytics ID
-googleAnalytics = ""
+googleAnalytics = "UA-168947394-1"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
