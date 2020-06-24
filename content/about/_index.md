@@ -7,7 +7,7 @@ hidden = true
 
 ### Published Work
 
-##### Arslan, M. (2020). Differentiating and connecting indicators: The quality and performance of law in the World Bank's Doing Business Project. International Journal of Law in Context, 1-22. 
+##### Arslan, M. (2020). Differentiating and connecting indicators: The quality and performance of law in the World Bank's Doing Business Project. International Journal of Law in Context,  
 
 DOI: https://doi.org/10.1017/S1744552320000026
 
