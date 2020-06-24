@@ -43,6 +43,7 @@ hasCJKLanguage = false
 	# Navigation links
 	home = ""
 	research = "Research"
+	dissertation ="Dissertation"
 	now = ""
 	blogs = "Résumé"
 	tags = ""

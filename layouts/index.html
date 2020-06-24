@@ -8,6 +8,10 @@
     
             <section id="wrapper" class="home">
                 {{ partial "welcome.html" . }}
+                <section id="page-content">
+                        {{ .Content }}
+                </section>
+            </section>
                 <!-- {{ partial "post-list.html"  . }} -->
                 <!-- {{ partial "pagination.html" . }} -->
             </section>

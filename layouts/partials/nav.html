@@ -5,7 +5,8 @@
             class="arrow">←</span>{{ with .Site.Params.home }}{{ . }}{{ else }}Home{{ end }}</a>
     {{ end }}
     <a href='{{ .Site.BaseURL }}about'>{{ with .Site.Params.research }}{{ . }}{{ else }}Research{{ end }}</a>
-    <a href='{{ .Site.BaseURL }}blogs'>{{ with .Site.Params.Résumé }}{{ . }}{{ else }}Résumé{{ end }}</a>
+    <a href='{{ .Site.BaseURL }}dissertation'>{{ with .Site.Params.now }}{{ . }}{{ else }}Dissertation{{ end }}</a>
+    <a href='{{ .Site.BaseURL }}blogs'>{{ with .Site.Params.Résumé }}{{ . }}{{ else }}CV{{ end }}</a>
     <a href='{{ .Site.BaseURL }}now'>{{ with .Site.Params.now }}{{ . }}{{ else }}Contact{{ end }}</a>
 
     {{ range $key, $val := .Site.Params.Links }}
